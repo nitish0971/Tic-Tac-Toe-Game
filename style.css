@@ -94,7 +94,7 @@
     transition: width 1s ease-in-out;
 }
 
-/* @media screen and (max-width: 750px)
+ @media screen and (max-width: 750px)
 {
     .gameContainer{
         flex-wrap: wrap;
@@ -109,4 +109,4 @@
         grid-template-rows: repeat(3, 20vw);
         grid-template-columns: repeat(3, 20vw);
     }
-} */
+} 
